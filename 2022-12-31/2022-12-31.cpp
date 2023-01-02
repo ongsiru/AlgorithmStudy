@@ -25,6 +25,7 @@ void BFS() {
 
             if (ny < 0 || nx < 0 || ny >= N || nx >= M)
                 continue;
+
             if (map[ny][nx] == 0 && visited[ny][nx] == 0) {
                 visited[ny][nx] = true;
                 q.push(make_pair(ny, nx));
@@ -43,7 +44,7 @@ int main() {
         }
     }
 
-    /*익은 토마토를 찾아 BFS의 출발지로 queue에 삽입*/
+    //익은 토마토를 찾아 BFS의 출발지로 queue에 삽입
     for (int i = 0; i < N; i++) {
         for (int j = 0; j < M; j++) {
             if (map[i][j] == 1) {
@@ -53,7 +54,7 @@ int main() {
     }
     BFS();
 
-    /*익지 않은 토마토 존재하면 -1 출력*/
+    //익지 않은 토마토 존재하면 -1 출력
     for (int i = 0; i < N; i++) {
         for (int j = 0; j < M; j++) {
             if (map[i][j] == 0 && path[i][j] == 0) { //익지 않음 토마토가 있으나 방문한적 없음
@@ -63,7 +64,7 @@ int main() {
         }
     }
 
-    /*방문 일자 저장 배열 중 최대값 출력*/
+    //방문 일자 저장 배열 중 최대값 출력
     int ans = -1;
     for (int i = 0; i < N; i++) {
         for (int j = 0; j < M; j++) {
