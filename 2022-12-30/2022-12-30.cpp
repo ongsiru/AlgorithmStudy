@@ -1,32 +1,29 @@
-﻿#include<iostream>
-#include<algorithm>
-#include<vector>
+﻿#include <iostream>
+#include <string>
+#include <vector>
+#include <algorithm>
+
 using namespace std;
 
-int dp[101][100001];
-int w[101];
-int v[101];
-int n, k;
+const int MN = 101;
+const int MK = 100101;
 
-int main()
-{
-    cin >> n >> k;
-    for (int i = 1; i <= n; i++)
-    {
-        cin >> w[i] >> v[i];
+int w[MN], cost[MN];
+int dp[MK]; //1차원 배열
+
+int main() {
+    int N, K;   cin >> N >> K;
+    for (int i = 1; i <= N; i++) {
+        cin >> w[i] >> cost[i];
     }
-    for (int i = 1; i <= n; i++)
-    {
-        for (int j = 1; j <= k; j++)
-        {
-            //물건을 넣을 수 있는 경우
-            if (j >= w[i])
-                dp[i][j] = max(dp[i - 1][j], dp[i - 1][j - w[i]] + v[i]);
-            //물건을 넣을 수 없는 경우
-            else
-                dp[i][j] = dp[i - 1][j];
+
+    for (int i = 1; i <= N; i++) {
+        for (int j = K; j >= 0; j--) { //큰 값부터 작은 값으로 
+            if (j >= w[i]) //배낭에 넣을 수 있을 때만
+                dp[j] = max(dp[j], dp[j - w[i]] + cost[i]); //더 큰 값으로 갱신
+            printf("%d\n", dp[K]);
         }
     }
-    cout << dp[n][k];
-    return 0;
+
+    cout << dp[K];
 }
