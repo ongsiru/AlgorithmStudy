@@ -17,9 +17,9 @@ void dfs(int n) {
 int main() {
     int n;
     int x, y;
-    scanf("%d %d", &computer_num, &n);
+    scanf_s("%d %d", &computer_num, &n);
     for (int i = 0; i < n; i++) {
-        scanf("%d %d", &x, &y);
+        scanf_s("%d %d", &x, &y);
         map[x][y] = map[y][x] = 1;
     }
 
