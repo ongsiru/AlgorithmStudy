@@ -124,7 +124,7 @@ int main() {
 		cout << (*iter).first << (*iter).second << endl;
 
 
-	// ⑧map
+	// ⑧map : pair(원소)들의 집합으로 이루어진 associative 컨테이너
 		//insert(make_pair(k, v)) : 원소를 key와 value의 pair로 삽입
 		//erase(k) : key값 k를 갖는 원소를 삭제
 		//begin() : 맨 첫번째 원소를 가리키는 iterator를 반환
