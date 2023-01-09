@@ -37,7 +37,7 @@
 <a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/VisualStudio-DF91DF?style=flat-square&logo=visualstudio&logoColor=white"/></a>
 
-<div >
+<div style="border: 3px solid gold;">
   2022-12-30 https://www.acmicpc.net/problem/12865 <br>
   2022-12-31 https://www.acmicpc.net/problem/7576 <br>
   2023-01-03 https://www.acmicpc.net/problem/2606 <br>
