@@ -14,9 +14,12 @@
 
 <details>
   <summary>
-    클릭하세요 02
+    탐색
   </summary>
-  <p>
-    아직 크롬, 파이어폭스만 가능합니다.
-  </p>
+  <div>
+    2022-12-30 https://www.acmicpc.net/problem/12865 <br>
+    2022-12-31 https://www.acmicpc.net/problem/7576 <br>
+    2023-01-03 https://www.acmicpc.net/problem/2606 <br>
+    2023-01-04 https://www.acmicpc.net/problem/15649 <br>
+  </div>
 </details>
