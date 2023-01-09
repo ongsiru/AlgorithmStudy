@@ -33,8 +33,7 @@
   </div>
 </details>
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fongsiru%2FAlgorithmStudy&count_bg=%23FFEFD6&title_bg=%23FF8D8D&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false"
-onclick="return false"/>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fongsiru%2FAlgorithmStudy&count_bg=%23FFEFD6&title_bg=%23FF8D8D&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 
 <div >
   2022-12-30 https://www.acmicpc.net/problem/12865 <br>
