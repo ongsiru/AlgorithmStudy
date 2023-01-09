@@ -42,6 +42,7 @@
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=gusdnr3548)](https://solved.ac/gusdnr3548)
 
 ##
+### List
   2022-12-30 https://www.acmicpc.net/problem/12865 <br>
   2022-12-31 https://www.acmicpc.net/problem/7576 <br>
   2023-01-03 https://www.acmicpc.net/problem/2606 <br>
