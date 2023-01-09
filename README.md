@@ -11,12 +11,7 @@
 2023-01-09 <br>
 </div>
 
-<details>
-  <p>
-    summary가 없으면 타이틀이 '세부정보'<br>
-    html만으로도 가능합니다. 
-  </p>
-</details>
+
 <details>
   <summary>
     클릭하세요 02
