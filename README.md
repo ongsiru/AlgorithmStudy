@@ -1,5 +1,9 @@
 # AlgorithmStudy
 
+<style>
+  .noClick{pointer-events : none;}
+</style>
+
 <details>
   <summary>
     탐색
@@ -46,7 +50,3 @@
   2023-01-08 https://www.acmicpc.net/problem/1461 <br>
   2023-01-09 https://www.acmicpc.net/problem/1464 <br>
 </div>
-
-<style>
-  .noClick{pointer-events : none;}
-</style>
