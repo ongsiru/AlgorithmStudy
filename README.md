@@ -4,7 +4,7 @@
   <summary>
     탐색
   </summary>
-  <div style="background: linear-gradient(to right, #ffa7a3, #5673bd); padding: 0.43em 1em; font-size: 19px; border-radius: 3px; color: #ffffff;">
+  <div>
     2022-12-30 https://www.acmicpc.net/problem/12865 <br>
     2022-12-31 https://www.acmicpc.net/problem/7576 <br>
     2023-01-03 https://www.acmicpc.net/problem/2606 <br>
@@ -33,6 +33,9 @@
   </div>
   
 </details>
+
+
+<p><span style="background: linear-gradient(to right, #ffa7a3, #5673bd); padding: 0.43em 1em; font-size: 19px; border-radius: 3px; color: #ffffff;">내용</span></p>
 
 <div >
   2022-12-30 https://www.acmicpc.net/problem/12865 <br>
