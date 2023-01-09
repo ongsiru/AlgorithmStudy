@@ -37,7 +37,7 @@
 <a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/VisualStudio-DD5BDD?style=flat-square&logo=visualstudio&logoColor=white"/></a>
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=gusdnr3548&edge_flat=true)](https://solved.ac/gusdnr3548)
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=gusdnr3548)](https://solved.ac/gusdnr3548)
 
 <div>
   2022-12-30 https://www.acmicpc.net/problem/12865 <br>
