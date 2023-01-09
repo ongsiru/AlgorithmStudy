@@ -34,7 +34,7 @@
 </details>
 
 <a href="#"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fongsiru%2FAlgorithmStudy&count_bg=%23FF8D8D&title_bg=%23FF8D8D&icon=&icon_color=%23FFFFFF&title=+Visit&edge_flat=false"/></a>
-<a href="#"><img src="https://img.shields.io/badge/C++-#00599C?style=flat-square&logo=firebase&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=firebase&logoColor=white"/></a>
   
 <div >
   2022-12-30 https://www.acmicpc.net/problem/12865 <br>
