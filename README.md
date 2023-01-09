@@ -1,6 +1,5 @@
 # AlgorithmStudy
 
-## Index
 <details>
   <summary>
     탐색
@@ -34,6 +33,7 @@
   </div>
 </details>
 
+### Index
 <div>
   2022-12-30 https://www.acmicpc.net/problem/12865 <br>
   2022-12-31 https://www.acmicpc.net/problem/7576 <br>
