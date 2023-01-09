@@ -35,7 +35,6 @@
 </details>
 
 <div >
-  <p><span style="border-radius: 15px 15px 15px 0; border: 3px solid #FFAD5B; padding: 0.5em 0.6em; color: #FF8000;">내용</span></p>
   2022-12-30 https://www.acmicpc.net/problem/12865 <br>
   2022-12-31 https://www.acmicpc.net/problem/7576 <br>
   2023-01-03 https://www.acmicpc.net/problem/2606 <br>
