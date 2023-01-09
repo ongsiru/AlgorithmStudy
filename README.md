@@ -15,15 +15,6 @@
 
 <details>
   <summary>
-    정리노트
-  </summary>
-  <div>
-    2023-01-05  <a href="https://github.com/ongsiru/AlgorithmStudy/blob/master/2023-01-05/2023-01-05.cpp">C++ 알고리즘 STL 정리</a> <br>
-  </div>
-</details>
-
-<details>
-  <summary>
     그리디
   </summary>
   <div>
@@ -43,6 +34,15 @@
     2022-12-31 https://www.acmicpc.net/problem/7576 <br>
     2023-01-03 https://www.acmicpc.net/problem/2606 <br>
     2023-01-04 https://www.acmicpc.net/problem/15649 <br>
+  </div>
+</details>
+
+<details>
+  <summary>
+    정리노트
+  </summary>
+  <div>
+    2023-01-05  <a href="https://github.com/ongsiru/AlgorithmStudy/blob/master/2023-01-05/2023-01-05.cpp">C++ 알고리즘 STL 정리</a> <br>
   </div>
 </details>
 
