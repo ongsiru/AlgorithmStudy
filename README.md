@@ -35,6 +35,13 @@
 </details>
 
 ##
+<a href="#"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fongsiru%2FAlgorithmStudy&count_bg=%23FF8D8D&title_bg=%23FF8D8D&icon=&icon_color=%23FFFFFF&title=+Visit&edge_flat=flase"/></a>
+<a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=flat-round&logo=C%2B%2B&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/VisualStudio-DD5BDD?style=flat-round&logo=visualstudio&logoColor=white"/></a>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=gusdnr3548)](https://solved.ac/gusdnr3548)
+
+##
   2022-12-30 https://www.acmicpc.net/problem/12865 <br>
   2022-12-31 https://www.acmicpc.net/problem/7576 <br>
   2023-01-03 https://www.acmicpc.net/problem/2606 <br>
@@ -45,9 +52,3 @@
   2023-01-08 https://www.acmicpc.net/problem/1461 <br>
   2023-01-09 https://www.acmicpc.net/problem/1464 <br>
 
-##
-<a href="#"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fongsiru%2FAlgorithmStudy&count_bg=%23FF8D8D&title_bg=%23FF8D8D&icon=&icon_color=%23FFFFFF&title=+Visit&edge_flat=flase"/></a>
-<a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=flat-round&logo=C%2B%2B&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/VisualStudio-DD5BDD?style=flat-round&logo=visualstudio&logoColor=white"/></a>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=gusdnr3548)](https://solved.ac/gusdnr3548)
