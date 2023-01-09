@@ -2,7 +2,7 @@
 
 ### Index
 <details>
-  <summary>
+  <summary::marker{font-size:0;}>
     탐색
   </summary>
   <div>
