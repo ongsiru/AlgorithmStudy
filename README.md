@@ -6,7 +6,6 @@
     탐색
   </summary>
   <div>
-    2022-12-30 https://www.acmicpc.net/problem/12865 <br>
     2022-12-31 https://www.acmicpc.net/problem/7576 <br>
     2023-01-03 https://www.acmicpc.net/problem/2606 <br>
     2023-01-04 https://www.acmicpc.net/problem/15649 <br>
@@ -50,6 +49,7 @@
     DP
   </summary>
   <div>
+    2022-12-30 https://www.acmicpc.net/problem/12865 <br>
     2023-01-25 https://www.acmicpc.net/problem/1965 <br>
   </div>
 </details>
