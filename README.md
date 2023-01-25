@@ -21,7 +21,6 @@
     2023-01-21 https://www.acmicpc.net/problem/15664 <br>
     2023-01-22 https://www.acmicpc.net/problem/15665 <br>
     2023-01-24 https://www.acmicpc.net/problem/15666 <br>
-    2023-01-25 https://www.acmicpc.net/problem/1965 <br>
   </div>
 </details>
 
@@ -43,6 +42,15 @@
   </summary>
   <div>
 
+  </div>
+</details>
+
+<details>
+  <summary>
+    DP
+  </summary>
+  <div>
+    2023-01-25 https://www.acmicpc.net/problem/1965 <br>
   </div>
 </details>
 
