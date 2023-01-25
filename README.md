@@ -20,6 +20,7 @@
     2023-01-20 https://www.acmicpc.net/problem/15663 <br>
     2023-01-21 https://www.acmicpc.net/problem/15664 <br>
     2023-01-22 https://www.acmicpc.net/problem/15665 <br>
+    2023-01-24 https://www.acmicpc.net/problem/15666 <br>
   </div>
 </details>
 
@@ -41,6 +42,15 @@
   </summary>
   <div>
 
+  </div>
+</details>
+
+<details>
+  <summary>
+    DP
+  </summary>
+  <div>
+    2023-01-25 https://www.acmicpc.net/problem/1965 <br>
   </div>
 </details>
 
@@ -73,8 +83,9 @@
   2023-01-19 https://www.acmicpc.net/problem/15657 <br>
   2023-01-20 https://www.acmicpc.net/problem/15663 <br>
   2023-01-21 https://www.acmicpc.net/problem/15664 <br>
-  2023-01-22 https://www.acmicpc.net/problem/15665 <br>  
-  
+  2023-01-22 https://www.acmicpc.net/problem/15665 <br>
+  2023-01-24 https://www.acmicpc.net/problem/15666 <br>
+  2023-01-25 https://www.acmicpc.net/problem/1965 <br>
 ##
 <a href="#"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fongsiru%2FAlgorithmStudy&count_bg=%23FF8D8D&title_bg=%23FF8D8D&icon=&icon_color=%23FFFFFF&title=+Visit&edge_flat=flase"/></a>
 <a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=flat-round&logo=C%2B%2B&logoColor=white"/></a>
