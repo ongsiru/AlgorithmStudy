@@ -42,16 +42,7 @@
 
 <details>
   <summary>
-    정렬
-  </summary>
-  <div>
-
-  </div>
-</details>
-
-<details>
-  <summary>
-    DP
+    정복&DP
   </summary>
   <div>
     2022-12-30 https://www.acmicpc.net/problem/12865 <br>
