@@ -1,6 +1,18 @@
 # AlgorithmStudy
 
 ### Index
+
+<details>
+  <summary>
+    정리노트
+  </summary>
+  <div>
+    2023-01-05  <a href="https://github.com/ongsiru/AlgorithmStudy/blob/master/2023-01-05/2023-01-05.cpp">C++ 자료구조 STL 정리</a> <br>
+    2023-09-16  <a href="https://github.com/ongsiru/AlgorithmStudy/blob/master/2023-09-16/2023-09-16.cpp">C++ 알고리즘 STL 정리</a> <br>
+    2023-09-27  <a href="https://github.com/ongsiru/AlgorithmStudy/blob/master/2023-09-28/2023-09-28.cpp">C++ 자료구조 그래프 구현</a> <br>
+  </div>
+</details>
+
 <details>
   <summary>
     탐색
@@ -49,17 +61,3 @@
     2023-01-25 https://www.acmicpc.net/problem/1965 <br>
   </div>
 </details>
-
-<details>
-  <summary>
-    정리노트
-  </summary>
-  <div>
-    2023-01-05  <a href="https://github.com/ongsiru/AlgorithmStudy/blob/master/2023-01-05/2023-01-05.cpp">C++ 자료구조 STL 정리</a> <br>
-    2023-09-16  <a href="https://github.com/ongsiru/AlgorithmStudy/blob/master/2023-09-16/2023-09-16.cpp">C++ 알고리즘 STL 정리</a> <br>
-    2023-09-27  <a href="https://github.com/ongsiru/AlgorithmStudy/blob/master/2023-09-28/2023-09-28.cpp">C++ 자료구조 그래프 구현</a> <br>
-  </div>
-</details>
-
-##
-
