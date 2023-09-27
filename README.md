@@ -55,7 +55,7 @@
     정리노트
   </summary>
   <div>
-    2023-01-05  <a href="https://github.com/ongsiru/AlgorithmStudy/blob/master/2023-01-05/2023-01-05.cpp">C++ 알고리즘 STL 정리</a> <br>
+    2023-01-05  <a href="https://github.com/ongsiru/AlgorithmStudy/blob/master/2023-01-05/2023-01-05.cpp">C++ 자료구조 STL 정리</a> <br>
   </div>
 </details>
 
