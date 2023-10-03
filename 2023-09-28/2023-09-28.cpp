@@ -35,8 +35,7 @@ int main()
 
         for (int j = 0; j < 5; j++) {
             if (i == j) AdjacencyMatrix[i][j] = 0;
-            else
-                AdjacencyMatrix[i][j] = rand() % 6;
+            else AdjacencyMatrix[i][j] = (AdjacencyMatrix[i][j] == AdjacencyMatrix[j][i]) ? rand() % 6 : AdjacencyMatrix[j][i];
             cout << AdjacencyMatrix[i][j] << " ";
         }
         cout << endl;
