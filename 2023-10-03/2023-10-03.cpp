@@ -6,7 +6,7 @@
 
 using namespace std;
 
-// 인접리스트 -> vector 2차 배열
+// 인접리스트 -> vector 2차 배열 
 vector<int> graph[5];
 bool visited[5];
 
