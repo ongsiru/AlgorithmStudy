@@ -34,6 +34,7 @@
     2023-01-22 https://www.acmicpc.net/problem/15665 <br>
     2023-01-24 https://www.acmicpc.net/problem/15666 <br>
     2023-01-31 https://www.acmicpc.net/problem/1260 <br>
+    2023-11-20 https://github.com/ongsiru/AlgorithmStudy/blob/master/2023-11-20/2023-11-20.cpp <br>
   </div>
 </details>
 
@@ -55,10 +56,11 @@
 
 <details>
   <summary>
-    정복&DP
+    중복&DP
   </summary>
   <div>
     2022-12-30 https://www.acmicpc.net/problem/12865 <br>
     2023-01-25 https://www.acmicpc.net/problem/1965 <br>
+    2023-11-18 https://github.com/ongsiru/AlgorithmStudy/blob/master/2023-11-18/2023-11-18.cpp <br>
   </div>
 </details>
