@@ -204,8 +204,6 @@ bool binary_search(vector<int> arr, int target)
 D. 크루스칼과 유니온 파인드
 ```cpp
 // 유니온 파인드
-using System.Numerics;
-
 int parent[MAX];
 int find(int x)
 {
