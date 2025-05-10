@@ -78,9 +78,6 @@ vector<int> nums;
 vector<int> arr;
 
 // 1. 중복순열
-vector<bool> visited(MAX, false);
-vector<int> nums;
-vector<int> arr;
 // 순열 > 0부터 시작하는데 순서에 따라 다름
 void dfs(int cnt)
 {
